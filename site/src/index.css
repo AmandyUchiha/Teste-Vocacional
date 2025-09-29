@@ -1,0 +1,9 @@
+/* src/index.css */
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  background-color: #f0f2f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
